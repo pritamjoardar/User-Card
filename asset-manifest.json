@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/User-Card/static/css/main.cb2cbaae.css",
+    "main.js": "/User-Card/static/js/main.4230aece.js",
+    "index.html": "/User-Card/index.html",
+    "main.cb2cbaae.css.map": "/User-Card/static/css/main.cb2cbaae.css.map",
+    "main.4230aece.js.map": "/User-Card/static/js/main.4230aece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb2cbaae.css",
+    "static/js/main.4230aece.js"
+  ]
+}
